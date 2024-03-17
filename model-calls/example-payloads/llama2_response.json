@@ -1,0 +1,6 @@
+{
+    "generation": "\n\nI am looking for a good restaurant to dine at tonight. Do you have any recommendations?\n\nI am open to different cuisines, but I am particularly interested in trying some local specialties.\n\nAlso, I would like to know if the restaurant has a nice atmosphere and good service.\n\nCan you help me with that?\n\nThank you!", 
+    "prompt_token_count": 7, 
+    "generation_token_count": 81, 
+    "stop_reason": "stop"
+}
